@@ -96,6 +96,8 @@ That was a chunk of new information, and we have even more coming up. If this is
 <sup>1</sup> Before you have any epiphanies on us, this is most likely _not_ where the term "babbling" comes from  
 <sup>2</sup> When 'in the field', so to speak, backwards compatibility will be more important
 
+...
+
 
 [origin-myth]: "https://en.wikipedia.org/wiki/Tower_of_Babel"
 [TL;DR]: "https://en.wikipedia.org/wiki/TL;DR"
